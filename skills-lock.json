@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "tooluniverse-natural-product-dereplication": {
+      "source": "mims-harvard/ToolUniverse",
+      "sourceType": "github",
+      "skillPath": "skills/tooluniverse-natural-product-dereplication/SKILL.md",
+      "computedHash": "9ae609633f54d2764034ced7de3f78930786a1c82e8625c4d9e171354832ef7a"
+    }
+  }
+}
