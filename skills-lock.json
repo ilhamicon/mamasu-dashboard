@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "food-chemistry": {
+      "source": "brycewang-stanford/Awesome-Journal-Skills",
+      "sourceType": "github",
+      "skillPath": "Agriculture-Environment-Journal-Skills/skills/food-chemistry/SKILL.md",
+      "computedHash": "0e32a82fbdf9cf1aeb874d0fedabb80334454f0fe70f6d2b3fd4bf72d20c2aaf"
+    },
     "tooluniverse-natural-product-dereplication": {
       "source": "mims-harvard/ToolUniverse",
       "sourceType": "github",
